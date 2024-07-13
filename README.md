@@ -1,5 +1,3 @@
-<p align="center"><a><img title="Know your similar " src="https://forthebadge.com/images/badges/built-with-love.svg"> </a>
-
 <p align="center">
 	<img src="res/userrecon.jpg" width="600px" hight="100px">
 </p>
