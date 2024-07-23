@@ -1,6 +1,5 @@
 #!/bin/bash
 # UserRecon v1.0
-# Author: Mr. Bee
 # Give me the credits if you use any part of this code, read the License.
 
 trap 'printf "\n";partial;exit 1' 2
